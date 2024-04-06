@@ -25,6 +25,7 @@ abstract class AbstractAbstract implements AbstractInterface {
     public AbstractAbstract() {
         System.out.println("this is constructor in abstract class");
     }
+    
 
     {
         System.out.println("this is instance block in abstract class");
