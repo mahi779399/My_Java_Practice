@@ -13,7 +13,7 @@ public class CheckedException {
             System.out.println(e);
             a=sc.nextInt();
         }
-        System.out.println(a);
+        System.out.println("fgh");
         sc.close();
     }
 }
